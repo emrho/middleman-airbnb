@@ -1,0 +1,22 @@
+# data/flats.yml
+emrho:
+  name: "Em's home"
+  description: "Charming room in Bali"
+  city_name: "Bali"
+  city_slug: "bali"
+  wifi: true
+  rating: 5
+noahleal:
+  name: "Noah's home"
+  description: Small flat in berlin
+  city_name: "Berlin"
+  city_slug: "berlin"
+  wifi: true
+  rating: 4
+michael-w0ng:
+  name: Michael's home
+  description: Ugly flat in london
+  city_name: "London, UK"
+  city_slug: "london"
+  wifi: false
+  rating: 1
